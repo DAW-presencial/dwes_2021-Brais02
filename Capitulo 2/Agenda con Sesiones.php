@@ -1,4 +1,5 @@
 <?php
+/** Iniciamos la sesion de php y nos crea una galleta de manera automatica.*/
 session_start();
 ?>
 <!doctype html>
@@ -16,6 +17,10 @@ session_start();
          * @var array $agenda Donde se guardan los datos que formaran la agenda.
          */
 
+        /**
+         * Si $_SESSION['agenda'] esta definida me metera dentro de $agenda el valor de $_SESSION
+         * en caso contrario te creara la variable $agenda como array.
+        */
         if (isset($_SESSION['agenda'])) {
             $agenda = $_SESSION['agenda'];
         } else {
@@ -57,6 +62,7 @@ session_start();
             echo '</ul>';
         }
         
+        /** Inserta dentro de $_SESSION['agenda'] los datos de la array $agenda.*/
         $_SESSION['agenda'] = $agenda;
         ?>
         <form>
