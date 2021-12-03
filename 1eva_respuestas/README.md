@@ -1,7 +1,7 @@
 # Examen 1ª Evaluación DWES
 
 ## Para acceder al remoto se puede usar el enlace:
-### http://examenbraisvirlan.ddns.net o http://bvirlan.ifc33b.cifpfbmoll.eu/
+### http://examenbraisvirlan.ddns.net o http://bvirlan.ifc33b.cifpfbmoll.eu/examen1/dwes_2021-Brais02/1eva_respuestas/
 
 ## Ejercicio 4
 ### Apartado A
