@@ -1,7 +1,7 @@
 # Examen 1ª Evaluación DWES
 
 ## Para acceder al remoto se puede usar el enlace:
-###http://examenbraisvirlan.ddns.net o http://bvirlan.ifc33b.cifpfbmoll.eu/
+### http://examenbraisvirlan.ddns.net o http://bvirlan.ifc33b.cifpfbmoll.eu/
 
 ## Ejercicio 4
 ### Apartado A
@@ -11,7 +11,6 @@ que tenga la clase padre, así que por ejemplo si la clase padre no permite leer
 escribir alguna variable el tampoco podra hacerlo.
 
 ### Apartado B
-
+Si no hay condicionales que se le apliquen permite que se muestren y modifiquen los valores sin problema.
 
 ## Ejercicio 5
--
