@@ -11,7 +11,7 @@ que tenga la clase padre, así que por ejemplo si la clase padre no permite leer
 escribir alguna variable el tampoco podra hacerlo.
 
 ### Apartado B
-Si no hay condicionales que se le apliquen permite que se muestren y modifiquen los valores sin problema.
+Si no hay condicionales que se le apliquen permite que se muestren y modifiquen los valores sin problema del padre, los atributos del hijo no los podra acceder.
 
 ## Ejercicio 5
 Pueden dar fallos los archivos en el servidor por la diferencia de rutas entre Windows y Linux
