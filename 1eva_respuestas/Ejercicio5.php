@@ -70,9 +70,7 @@
                 }
             }
             echo "</ul>";
-        } /*else {
-            displayForm();
-        }*/
+        }
 
         function DisplayForm() {
             global $nombre, $apellido, $fecha;
