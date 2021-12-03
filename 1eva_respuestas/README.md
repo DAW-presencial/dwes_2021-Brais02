@@ -14,3 +14,4 @@ escribir alguna variable el tampoco podra hacerlo.
 Si no hay condicionales que se le apliquen permite que se muestren y modifiquen los valores sin problema.
 
 ## Ejercicio 5
+Pueden dar fallos los archivos en el servidor por la diferencia de rutas entre Windows y Linux
