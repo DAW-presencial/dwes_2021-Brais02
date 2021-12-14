@@ -1,5 +1,6 @@
 # Agenda con Base de Datos
-Para que funcione es menester realizar una serie de cosas:
-- Tener Postgresql instalado y funcional (https://www.postgresql.org/download/).
-- Abrir dentro de Postgres el archivo .sql y ejecutarlo.
-- Cambiar la contraseña (campo pass) y el usuario (campo user) en caso de ser necesario.
+Para poder acceder a la BD se usa el enlace siguiente:
+- http://bvirlan.ifc33b.cifpfbmoll.eu/Agenda/agendaBD.php
+
+Si se quieren ver los datos en el github se puede ir al siguiente enlace:
+- https://github.com/DAW-presencial/dwes_2021-Brais02/tree/main/Agenda
